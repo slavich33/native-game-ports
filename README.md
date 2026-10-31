@@ -1,15 +1,17 @@
 # Native Game Ports for iOS & Apple Silicon Mac
 
+**Public game projects:** [all six boards and current adaptation milestones](https://github.com/slavich33?tab=projects).
+
 Community **native ARM64 game-port source and porting research for iPhone, iPad and macOS**. Projects use platform-service adaptation, static rewriting/recompilation, Metal graphics, native host integration, or selected-function recovery. Each repository records its own verified scope and remaining work.
 
-| Game | Public source | Current scope |
-| --- | --- | --- |
-| Grand Theft Auto V / GTA 5 | [gta-v-native-ios](https://github.com/slavich33/gta-v-native-ios) | Experimental iOS/macOS native host; gameplay baseline observed, performance/artifacts/freezes remain open |
-| Diablo II: Resurrected / D2R | [diablo-2-resurrected-native-ios](https://github.com/slavich33/diablo-2-resurrected-native-ios) | Native port fork; Reimagined API/TCP components verified, actual ladder gameplay and server characters pending |
-| Zelda: Tears of the Kingdom & Breath of the Wild | [zelda-totk-botw-native-ios](https://github.com/slavich33/zelda-totk-botw-native-ios) | Native Mac/iPhone/iPad fork, build/install helpers, shader-seed and frame-pacing changes |
-| Castlevania: Belmont’s Curse | [castlevania-belmonts-curse-native](https://github.com/slavich33/castlevania-belmonts-curse-native) | Paused native Mac loading-screen research; menu/gameplay and iPhone operation unverified |
-| Songs of Conquest | [songs-of-conquest-native-ios-tools](https://github.com/slavich33/songs-of-conquest-native-ios-tools) | Unity/C# adaptation tools and compilation checkpoint; no verified iPhone gameplay |
-| The Witcher 3: Wild Hunt | [witcher-3-native-research](https://github.com/slavich33/witcher-3-native-research) | Selected ARM64 function models and differential tooling; no complete engine or app |
+| Game | Public source | Current scope | Project board |
+| --- | --- | --- | --- |
+| Grand Theft Auto V / GTA 5 | [gta-v-native-ios](https://github.com/slavich33/gta-v-native-ios) | Experimental iOS/macOS native host; gameplay baseline observed, performance/artifacts/freezes remain open  [Roadmap](https://github.com/users/slavich33/projects/1) |
+| Diablo II: Resurrected / D2R | [diablo-2-resurrected-native-ios](https://github.com/slavich33/diablo-2-resurrected-native-ios) | Native port fork; Reimagined API/TCP components verified, actual ladder gameplay and server characters pending  [Roadmap](https://github.com/users/slavich33/projects/2) |
+| Zelda: Tears of the Kingdom & Breath of the Wild | [zelda-totk-botw-native-ios](https://github.com/slavich33/zelda-totk-botw-native-ios) | Native Mac/iPhone/iPad fork, build/install helpers, shader-seed and frame-pacing changes  [Roadmap](https://github.com/users/slavich33/projects/3) |
+| Castlevania: Belmont’s Curse | [castlevania-belmonts-curse-native](https://github.com/slavich33/castlevania-belmonts-curse-native) | Paused native Mac loading-screen research; menu/gameplay and iPhone operation unverified  [Roadmap](https://github.com/users/slavich33/projects/4) |
+| Songs of Conquest | [songs-of-conquest-native-ios-tools](https://github.com/slavich33/songs-of-conquest-native-ios-tools) | Unity/C# adaptation tools and compilation checkpoint; no verified iPhone gameplay  [Roadmap](https://github.com/users/slavich33/projects/5) |
+| The Witcher 3: Wild Hunt | [witcher-3-native-research](https://github.com/slavich33/witcher-3-native-research) | Selected ARM64 function models and differential tooling; no complete engine or app  [Roadmap](https://github.com/users/slavich33/projects/6) |
 
 ## Shared framework
 
